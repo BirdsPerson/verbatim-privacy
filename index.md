@@ -1,16 +1,16 @@
-# Privacy Policy for Recount
+# Privacy Policy for Verbatim
 
 Last updated: 2026-06-08
 
-Recount is a voice-first journaling app built around a simple principle: your
+Verbatim is a voice-first journaling app built around a simple principle: your
 journal is yours. This policy explains, plainly, what happens to your data.
 The short version: nothing leaves your iPhone.
 
 ## On-device processing
 
 Everything that turns your voice into a journal entry happens on your device.
-Recount uses Apple's Foundation Models framework to transcribe your speech and
-structure your entry. There is no Recount server and no backend API. Your
+Verbatim uses Apple's Foundation Models framework to transcribe your speech and
+structure your entry. There is no Verbatim server and no backend API. Your
 content is never uploaded to us, because there is nowhere to upload it to.
 
 ## Data we do not collect, store, or transmit
@@ -20,12 +20,12 @@ We do not collect, store, or transmit any of the following:
 - Voice recordings. Audio is held only during recording and is deleted right
   after it is transcribed on your device.
 - Journal entries. Your entries are stored locally on your device.
-- Personally identifiable information (PII). Recount has no accounts, no
+- Personally identifiable information (PII). Verbatim has no accounts, no
   sign-up, and no login. We never ask for your name, email, or any identifier.
 
 ## Analytics
 
-Recount uses TelemetryDeck to understand, in aggregate, how the app is used
+Verbatim uses TelemetryDeck to understand, in aggregate, how the app is used
 (for example, how often entries are created). These events are anonymous and
 aggregate only. They contain no user data, no journal content, and no device
 identifiers. They cannot be tied back to you or your device.
@@ -45,7 +45,7 @@ end-to-end protections. We have no access to that data.
 
 ## Children's privacy
 
-Recount does not collect personal information from anyone, including children.
+Verbatim does not collect personal information from anyone, including children.
 
 ## Changes to this policy
 
