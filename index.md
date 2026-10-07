@@ -54,4 +54,4 @@ the revised version at this URL.
 
 ## Contact
 
-Questions about privacy? Email us at [SUPPORT-EMAIL].
+Questions about privacy? Email us at hello@electricbasement.tv.
