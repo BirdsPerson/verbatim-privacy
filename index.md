@@ -17,8 +17,9 @@ content is never uploaded to us, because there is nowhere to upload it to.
 
 We do not collect, store, or transmit any of the following:
 
-- Voice recordings. Audio is held only during recording and is deleted right
-  after it is transcribed on your device.
+- Voice recordings. Audio is deleted after transcription unless you choose to
+  keep it (Settings → Keep recordings). Kept recordings stay on your device and
+  are deleted with their entry. It never leaves your phone.
 - Journal entries. Your entries are stored locally on your device.
 - Personally identifiable information (PII). Verbatim has no accounts, no
   sign-up, and no login. We never ask for your name, email, or any identifier.
